@@ -166,7 +166,7 @@ body {
 }
 
 .info__part--second .info__text {
-        max-width: 352px;
+    max-width: 352px;
 }
 
 .info__table {
@@ -199,12 +199,17 @@ body {
 .track__title {
     padding-top: 50px;
     padding-bottom: 30px;
+    font-size: 32px;
+    font-weight: 300;
 }
 
 .track__text {
-
+    max-width: 435px;
 }
 
-
+.track__img {
+    margin: 250px auto 0;
+    display: block;
+}
 
 
